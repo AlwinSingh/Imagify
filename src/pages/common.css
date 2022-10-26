@@ -1,0 +1,67 @@
+.wavey {
+  position: relative;
+  overflow: hidden;
+  min-height: 100vh;
+  width: 100%;
+}
+.wavey__line {
+  position: relative;
+  transform: translateX(0);
+  height: 70px;
+  width: 2000px;
+  background: #e0efe3;
+  display: block;
+}
+.wavey__line:before, .wavey__line:after {
+  content: "";
+  display: block;
+  position: absolute;
+}
+.wavey__line:before {
+  border-radius: 100% 50%;
+  width: 56.6%;
+  height: 80px;
+  background-color: white;
+  right: -5px;
+  top: 40px;
+}
+.wavey__line:after {
+  border-radius: 100% 50%;
+  width: 50%;
+  height: 70px;
+  background-color: #e0efe3;
+  left: 0;
+  top: 27px;
+}
+
+.drag-drop-container {
+  border: 1px dashed black;
+}
+
+.drag-drop-text {
+  text-align: center;
+  margin: 0 !important;
+  font-size: 19px;
+}
+
+.drag-drop-btn {
+  background-color: #5256ad !important;
+  color: #fff !important
+}
+
+.drag-drop-btn:hover {
+  background-color: #3c419f !important;
+}
+
+.download-btn {
+  background-color: #5256ad !important;
+  color: #fff !important;
+}
+
+.download-btn:hover {
+  background-color: #3c419f !important;
+}
+
+.compare-container {
+  width: 100% !important
+}
