@@ -12,13 +12,12 @@ This project aims to remove background or cartoonify images!
 
 
 ## :performing_arts: Cartoonify video demonstration
-https://user-images.githubusercontent.com/62194353/198216037-d90e5efd-4cfa-489c-890a-5e47b2458fe5.mp4
 
+https://user-images.githubusercontent.com/62194353/198219579-cbb3a612-b05f-4eef-8c12-b06165f03742.mp4
 
 
 ## :scissors: Background removal video demonstration
-https://user-images.githubusercontent.com/62194353/198216048-aa62ced3-de60-4c38-8a82-3e9484489bac.mp4
-
+https://user-images.githubusercontent.com/62194353/198219561-bc7fe5f2-dcec-4a9e-8195-6307d40d5cc0.mp4
 
 
 ## :rocket: API video demonstration
